@@ -4,9 +4,8 @@ import Header from '../components/Header';
 
 const Menu = () => {
     return (
-        <div>
-             <> <Header></Header> </>
-        </div>
+           <> <Header></Header> 
+             <Header></Header> </> 
     );
 };
 
